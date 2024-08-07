@@ -107,7 +107,7 @@ const DepositComponent = () => {
               data-animation="fadeInUpShorter"
               data-animation-delay="0.4s"
             >
-              Input S@L to deposit.
+              Input SOL to deposit.
             </p>
           </div>
           <div className="row">
