@@ -1,5 +1,5 @@
 # ![DiceSwap](https://i.ibb.co/Fh8DfJc/demo-landing.jpg)
-# WebApp
+# DiceSwap
 <table>
 <tr>
 <td>
@@ -60,8 +60,6 @@ If you'd like to request a new function, you can just do so by opening an issue 
 ## Team
 
 [![Huzaifa Khan](https://avatars.githubusercontent.com/u/103213190?v=4)](https://github.com/HuzaifaKhanDeveloper)
----|---
-[Huzaifa Khan](https://github.com/HuzaifaKhanDeveloper) |[linkedIn](https://www.linkedin.com/in/huzaifakhandev/)
 
 ## [License](https://github.com/HuzaifaKhanDeveloper/dice-coin/blob/main/LICENSE)
 
